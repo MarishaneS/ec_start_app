@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>c497323297e21110d9a7b8e6f053af96</logo>
+        <menu/>
+        <name>MavenNext EC starter App</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_803706_mavenne_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_803706_mavenne_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 00:56:26</sys_created_on>
+        <sys_id>538736b297e21110d9a7b8e6f053af27</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 00:56:29</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo mavennext.png</file_name>
+        <hash>2731cf6f84754d0cc67f4a64d7cf5afba86e951118611c6bc371cc61e7b2f20e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3490</size_bytes>
+        <size_compressed>3497</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 00:56:29</sys_created_on>
+        <sys_id>c497323297e21110d9a7b8e6f053af96</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-19 00:56:30</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>538736b297e21110d9a7b8e6f053af27</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo mavennext.png" sys_id="c497323297e21110d9a7b8e6f053af96">c497323297e21110d9a7b8e6f053af96</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 00:56:29</sys_created_on>
+        <sys_id>4c97323297e21110d9a7b8e6f053af96</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4652</length>
+        <position>1</position>
+        <sys_attachment display_value="logo mavennext.png" sys_id="c497323297e21110d9a7b8e6f053af96">c497323297e21110d9a7b8e6f053af96</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 00:56:29</sys_created_on>
+        <sys_id>cc97323297e21110d9a7b8e6f053af96</sys_id>
+    </sys_attachment_doc>
+</record_update>
