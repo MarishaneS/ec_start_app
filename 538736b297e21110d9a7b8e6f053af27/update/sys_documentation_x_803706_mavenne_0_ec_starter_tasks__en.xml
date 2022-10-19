@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Ec starter tasks" language="en" table="x_803706_mavenne_0_ec_starter_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Ec starter tasks</label>
+            <language>en</language>
+            <name>x_803706_mavenne_0_ec_starter_tasks</name>
+            <plural>Ec starter tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 14:06:46</sys_created_on>
+            <sys_id>587c21c397ae1110d9a7b8e6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ec starter tasks</sys_name>
+            <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+            <sys_update_name>sys_documentation_x_803706_mavenne_0_ec_starter_tasks__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 14:06:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

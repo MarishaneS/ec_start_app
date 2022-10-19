@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MavenNext EC starter App">9412f90b97ae1110d9a7b8e6f053af31</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Launch EC starter pack</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>esc?</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 14:32:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89e1390b97ae1110d9a7b8e6f053af8c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Launch EC starter pack</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_update_name>sys_app_module_89e1390b97ae1110d9a7b8e6f053af8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 15:13:43</sys_updated_on>
+        <timeline_page/>
+        <title>Launch EC starter pack</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

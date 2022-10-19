@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_content">
+    <help_content action="DELETE">
+        <active>true</active>
+        <configuration_types>install_plugin</configuration_types>
+        <custom_html/>
+        <default_content>true</default_content>
+        <field_name/>
+        <filter/>
+        <footer/>
+        <guidance_step display_value="Install Plugins ">b3bacf7a97261110d9a7b8e6f053aff7</guidance_step>
+        <has_custom_html>false</has_custom_html>
+        <has_image_link>false</has_image_link>
+        <image/>
+        <image_alt/>
+        <image_link/>
+        <open_in>new_tab</open_in>
+        <options/>
+        <order/>
+        <records/>
+        <related_content/>
+        <resource_id/>
+        <subtitle/>
+        <sys_class_name>help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:20:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ffbacf7a97261110d9a7b8e6f053affb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Install Plugins </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_update_name>help_content_ffbacf7a97261110d9a7b8e6f053affb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:21:16</sys_updated_on>
+        <table_name>v_plugin</table_name>
+        <text/>
+        <title>Install Plugins </title>
+        <type>text</type>
+        <url/>
+        <version>sandiego</version>
+        <video_alt/>
+        <video_link/>
+        <view>Default view</view>
+    </help_content>
+    <sys_translated_text action="DELETE" query="documentkey=ffbacf7a97261110d9a7b8e6f053affb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</application>
+        <file_path/>
+        <instance_id>15b28e3bdb40bb4049eac59705961961</instance_id>
+        <instance_name>dev74920</instance_name>
+        <name>help_content_ffbacf7a97261110d9a7b8e6f053affb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_content"><help_content action="INSERT_OR_UPDATE"><active>true</active><configuration_types>install_plugin</configuration_types><custom_html/><default_content>true</default_content><field_name/><filter/><footer/><guidance_step display_value="Install Plugins ">b3bacf7a97261110d9a7b8e6f053aff7</guidance_step><has_custom_html>false</has_custom_html><has_image_link>false</has_image_link><image/><image_alt/><image_link/><open_in>new_tab</open_in><options/><order/><records/><related_content/><resource_id/><subtitle/><sys_class_name>help_content</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-19 02:20:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ffbacf7a97261110d9a7b8e6f053affb</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Install Plugins </sys_name><sys_overrides/><sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package><sys_policy/><sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope><sys_update_name>help_content_ffbacf7a97261110d9a7b8e6f053affb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-19 02:21:16</sys_updated_on><table_name>v_plugin</table_name><text/><title>Install Plugins </title><type>text</type><url/><version>sandiego</version><video_alt/><video_link/><view>Default view</view></help_content><sys_translated_text action="delete_multiple" query="documentkey=ffbacf7a97261110d9a7b8e6f053affb"/></record_update>]]></payload>
+        <payload_hash>1778312546</payload_hash>
+        <record_name>Install Plugins </record_name>
+        <reverted_from/>
+        <source>0839bab297e21110d9a7b8e6f053af48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:21:16</sys_created_on>
+        <sys_id>0efac7fa97261110d9a7b8e6f053af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183ee0b891a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:21:16</sys_updated_on>
+        <type>Help Content</type>
+        <update_guid>06fac7fabc2611101687383d0705ae34</update_guid>
+        <update_guid_history>06fac7fabc2611101687383d0705ae34:1778312546,80cacf7adc2611104a65fe48975987fd:321612370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Install Plugins ">0aad4bbe97261110d9a7b8e6f053af66</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:33:01</sys_created_on>
+        <sys_db_object display_value="" name="help_content">help_content</sys_db_object>
+        <sys_id>ca1fd86bdf074e909b2652bf9e609d04</sys_id>
+        <sys_metadata>ffbacf7a97261110d9a7b8e6f053affb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Install Plugins </sys_name>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_scope_delete display_value="">39700415ddde430896dc808633879064</sys_scope_delete>
+        <sys_update_name>help_content_ffbacf7a97261110d9a7b8e6f053affb</sys_update_name>
+        <sys_update_version display_value="help_content_ffbacf7a97261110d9a7b8e6f053affb">0efac7fa97261110d9a7b8e6f053af34</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:33:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

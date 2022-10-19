@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance_step">
+    <help_guidance_step action="DELETE">
+        <actions_label>{"next":"Next","prev":"Previous","submit":"Submit"}</actions_label>
+        <active>true</active>
+        <allow_delegation>true</allow_delegation>
+        <callout_position>default</callout_position>
+        <description>Plugins for recommended</description>
+        <guidance display_value="test">88f6cf3697261110d9a7b8e6f053af5d</guidance>
+        <has_decision>false</has_decision>
+        <layout>text</layout>
+        <name>Install Plugins recommended</name>
+        <order>3</order>
+        <parent display_value="Plugins">ccf6437697261110d9a7b8e6f053afc5</parent>
+        <roles/>
+        <script/>
+        <skippable>false</skippable>
+        <status>0</status>
+        <sys_class_name>help_guidance_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:03:40</sys_created_on>
+        <sys_decision/>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>50f6437697261110d9a7b8e6f053afd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Install Plugins recommended</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_update_name>help_guidance_step_50f6437697261110d9a7b8e6f053afd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:03:40</sys_updated_on>
+        <target_element/>
+        <task_type>recommended</task_type>
+        <type>activity</type>
+        <unlock_by_decision_step>false</unlock_by_decision_step>
+    </help_guidance_step>
+    <sys_translated_text action="DELETE" query="documentkey=50f6437697261110d9a7b8e6f053afd8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</application>
+        <file_path/>
+        <instance_id>15b28e3bdb40bb4049eac59705961961</instance_id>
+        <instance_name>dev74920</instance_name>
+        <name>help_guidance_step_50f6437697261110d9a7b8e6f053afd8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance_step"><help_guidance_step action="INSERT_OR_UPDATE"><actions_label>{"next":"Next","prev":"Previous","submit":"Submit"}</actions_label><active>true</active><allow_delegation>true</allow_delegation><callout_position>default</callout_position><description>Plugins for recommended</description><guidance display_value="test">88f6cf3697261110d9a7b8e6f053af5d</guidance><has_decision>false</has_decision><layout>text</layout><name>Install Plugins recommended</name><order>3</order><parent display_value="Plugins">ccf6437697261110d9a7b8e6f053afc5</parent><roles/><script/><skippable>false</skippable><status>0</status><sys_class_name>help_guidance_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-19 02:03:40</sys_created_on><sys_decision/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>50f6437697261110d9a7b8e6f053afd8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Install Plugins recommended</sys_name><sys_overrides/><sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package><sys_policy/><sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope><sys_update_name>help_guidance_step_50f6437697261110d9a7b8e6f053afd8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-19 02:03:40</sys_updated_on><target_element/><task_type>recommended</task_type><type>activity</type><unlock_by_decision_step>false</unlock_by_decision_step></help_guidance_step><sys_translated_text action="delete_multiple" query="documentkey=50f6437697261110d9a7b8e6f053afd8"/></record_update>]]></payload>
+        <payload_hash>-1148028759</payload_hash>
+        <record_name>Install Plugins recommended</record_name>
+        <reverted_from/>
+        <source>0839bab297e21110d9a7b8e6f053af48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:03:41</sys_created_on>
+        <sys_id>50f6437697261110d9a7b8e6f053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183edfb6c610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:03:41</sys_updated_on>
+        <type>Help Guidance Step</type>
+        <update_guid>98f64376e1261110a5787409ec4656db</update_guid>
+        <update_guid_history>98f64376e1261110a5787409ec4656db:-1148028759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Install Plugins recommended">0ead0bbe97261110d9a7b8e6f053afe1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:33:00</sys_created_on>
+        <sys_db_object display_value="" name="help_guidance_step">help_guidance_step</sys_db_object>
+        <sys_id>121b3402aca14e9f8c425c84af337501</sys_id>
+        <sys_metadata>50f6437697261110d9a7b8e6f053afd8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Install Plugins recommended</sys_name>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_scope_delete display_value="">39700415ddde430896dc808633879064</sys_scope_delete>
+        <sys_update_name>help_guidance_step_50f6437697261110d9a7b8e6f053afd8</sys_update_name>
+        <sys_update_version display_value="help_guidance_step_50f6437697261110d9a7b8e6f053afd8">50f6437697261110d9a7b8e6f053afdc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:33:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
