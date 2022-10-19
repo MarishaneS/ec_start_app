@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>true</before>
+        <description>Disable Polaris Experience for launching guided tour.</description>
+        <name>Disable Polaris Experience</name>
+        <record_for_rollback>false</record_for_rollback>
+        <script><![CDATA[var sys_pro = new GlideRecord("sys_properties");
+sys_pro.addQuery("name","glide.ui.polaris.experience");
+sys_pro.query();
+if(sys_pro.next()){
+	sys_pro.setValue("value","false");
+	sys_pro.update();
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 11:53:59</sys_created_on>
+        <sys_id>d2fd0107972e1110d9a7b8e6f053afb0</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Disable Polaris Experience</sys_name>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_update_name>sys_script_fix_d2fd0107972e1110d9a7b8e6f053afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 13:33:15</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

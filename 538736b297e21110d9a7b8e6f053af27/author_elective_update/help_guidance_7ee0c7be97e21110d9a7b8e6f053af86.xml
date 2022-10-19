@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance">
+    <help_guidance action="DELETE">
+        <active>true</active>
+        <app_route/>
+        <auto_launch_order/>
+        <checklist><![CDATA[<p>Install/update employee Center</p><p> </p>]]></checklist>
+        <context/>
+        <description>EC basics for EC</description>
+        <eh_content/>
+        <name>MavenNext EC Starter App</name>
+        <order/>
+        <roles>admin</roles>
+        <route_params/>
+        <snc_created>false</snc_created>
+        <status>draft</status>
+        <sys_class_name>help_guidance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 01:37:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ee0c7be97e21110d9a7b8e6f053af86</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>MavenNext EC Starter App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_update_name>help_guidance_7ee0c7be97e21110d9a7b8e6f053af86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 01:42:16</sys_updated_on>
+        <topic_id/>
+        <type>global_setup</type>
+        <version>sandiego</version>
+    </help_guidance>
+    <sys_translated_text action="DELETE" query="documentkey=7ee0c7be97e21110d9a7b8e6f053af86"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</application>
+        <file_path/>
+        <instance_id>15b28e3bdb40bb4049eac59705961961</instance_id>
+        <instance_name>dev74920</instance_name>
+        <name>help_guidance_7ee0c7be97e21110d9a7b8e6f053af86</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="help_guidance"&gt;&lt;help_guidance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;app_route/&gt;&lt;auto_launch_order/&gt;&lt;checklist&gt;&lt;![CDATA[&lt;p&gt;Install/update employee Center&lt;/p&gt;&lt;p&gt; &lt;/p&gt;]]&gt;&lt;/checklist&gt;&lt;context/&gt;&lt;description&gt;EC basics for EC&lt;/description&gt;&lt;eh_content/&gt;&lt;name&gt;MavenNext EC Starter App&lt;/name&gt;&lt;order/&gt;&lt;roles&gt;admin&lt;/roles&gt;&lt;route_params/&gt;&lt;snc_created&gt;false&lt;/snc_created&gt;&lt;status&gt;draft&lt;/status&gt;&lt;sys_class_name&gt;help_guidance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-19 01:37:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7ee0c7be97e21110d9a7b8e6f053af86&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;MavenNext EC Starter App&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0"&gt;538736b297e21110d9a7b8e6f053af27&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MavenNext EC starter App"&gt;538736b297e21110d9a7b8e6f053af27&lt;/sys_scope&gt;&lt;sys_update_name&gt;help_guidance_7ee0c7be97e21110d9a7b8e6f053af86&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-19 01:42:16&lt;/sys_updated_on&gt;&lt;topic_id/&gt;&lt;type&gt;global_setup&lt;/type&gt;&lt;version&gt;sandiego&lt;/version&gt;&lt;/help_guidance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7ee0c7be97e21110d9a7b8e6f053af86"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1548927075</payload_hash>
+        <record_name>MavenNext EC Starter App</record_name>
+        <reverted_from/>
+        <source>0839bab297e21110d9a7b8e6f053af48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 01:42:16</sys_created_on>
+        <sys_id>2e02cbfe97e21110d9a7b8e6f053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183ede7d2ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 01:42:16</sys_updated_on>
+        <type>Guidance</type>
+        <update_guid>2602cbfe73e21110a650d88e71bdc45c</update_guid>
+        <update_guid_history>2602cbfe73e21110a650d88e71bdc45c:1548927075,bcf18bfea7e21110e523fe7f0fcd1c9d:1307620598,f2e0c7bec2e2111037ccc7bd97a5f189:-1417303346</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MavenNext EC Starter App">5ead4bbe97261110d9a7b8e6f053af7b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:33:02</sys_created_on>
+        <sys_db_object display_value="" name="help_guidance">help_guidance</sys_db_object>
+        <sys_id>98adc29547d64dc0aea9d75ffe407ab1</sys_id>
+        <sys_metadata>7ee0c7be97e21110d9a7b8e6f053af86</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MavenNext EC Starter App</sys_name>
+        <sys_package display_value="MavenNext EC starter App" source="x_803706_mavenne_0">538736b297e21110d9a7b8e6f053af27</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MavenNext EC starter App">538736b297e21110d9a7b8e6f053af27</sys_scope>
+        <sys_scope_delete display_value="">39700415ddde430896dc808633879064</sys_scope_delete>
+        <sys_update_name>help_guidance_7ee0c7be97e21110d9a7b8e6f053af86</sys_update_name>
+        <sys_update_version display_value="help_guidance_7ee0c7be97e21110d9a7b8e6f053af86">2e02cbfe97e21110d9a7b8e6f053af5c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:33:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
